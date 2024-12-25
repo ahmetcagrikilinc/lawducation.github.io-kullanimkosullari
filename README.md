@@ -11,7 +11,7 @@ işbu sözleşme metninin tamamını kabul ettiğinizin, tarafımızca varsayıl
 lütfen unutmayınız.
 </p>
 <p>
-Acil Numaralar bundan sonra UYGULAMA olarak anılacaktır.
+Lawducation bundan sonra UYGULAMA olarak anılacaktır.
 İşbu uygulamaya ilişkin Kullanım Koşulları, yayınlanmakla yürürlüğe girer.
 Değişiklik yapma hakkı, tek taraflı olarak UYGULAMA'ya aittir ve
 UYGULAMA üzerinden güncel olarak paylaşılacak olan bu değişiklikleri,
@@ -26,7 +26,7 @@ kabul edersiniz.
 </p>
 <h2>Hizmet Kapsamı</h2>
 <p>
-Acil Numaralar olarak, sunacağımız hizmetlerin kapsamını ve niteliğini, yasalar
+Lawducation olarak, sunacağımız hizmetlerin kapsamını ve niteliğini, yasalar
 çerçevesinde belirlemekte tamamen serbest olup; hizmetlere ilişkin yapacağımız
 değişiklikler, UYGULAMA'da yayınlanmakla yürürlüğe girmiş sayılacaktır.
 </p>
@@ -34,7 +34,7 @@ değişiklikler, UYGULAMA'da yayınlanmakla yürürlüğe girmiş sayılacaktır
 <p>
 UYGULAMA'da yayınlanan tüm metin, kod, grafikler,
 logolar, resimler, ses dosyaları ve kullanılan yazılımın sahibi
-(bundan böyle ve daha sonra "içerik" olarak anılacaktır) Acil Numaralar olup,
+(bundan böyle ve daha sonra "içerik" olarak anılacaktır) Lawducation olup,
 tüm hakları saklıdır. Yazılı izin olmaksızın uygulama içeriğinin çoğaltılması veya kopyalanması
 kesinlikle yasaktır.
 </p>
@@ -90,6 +90,5 @@ doğmayacaktır.
 <p>
 Uyuşmazlık Çözümü: İşbu Sözleşme'nin uygulanmasından veya yorumlanmasından
 doğacak her türlü uyuşmazlığın çözümünde, Türkiye Cumhuriyeti yasaları uygulanır;
-İstanbul Adliyesi Mahkemeleri ve İcra Daireleri yetkilidir.
+Ankara Adliyesi Mahkemeleri ve Ankara İcra Daireleri yetkilidir.
 </p>
-<p>Bu kullanım koşulları, <a href="https://sartlar.com">https://sartlar.com</a> aracılığıyla oluşturulmuştur.</p>
