@@ -1,5 +1,5 @@
 <h1>Kullanım Koşulları</h1>
-<p>Son güncellenme: 02/07/2024</p>
+<p>Son güncellenme: 01/01/2025</p>
 <p>
 Sevgili ziyaretçimiz, lütfen uygulamamızı ziyaret etmeden önce işbu
 kullanım koşulları sözleşmesini dikkatlice okuyunuz. Uygulamaya erişiminiz
